@@ -14,8 +14,8 @@ Start date: 9/28/2018
   * Download the picture "me.jpg", music file "love.mp3", and font file"simkai.ttf" 
   * Execute the file by command "py wouldYouBeMyBoyfriend.py"
   
-[UI] (./Would you be my boyfriend/Pictures/UI 1.png)
+![UI](/Would you be my boyfriend/Pictures/UI 1.png)
 
-[UI2 - Running no] (/Would you be my boyfriend/Pictures/UI 2 - running no.png)
+![UI2 - Running no](/Would you be my boyfriend/Pictures/UI 2 - running no.png)
 
-[UI2 - Happy Ending] (/Would you be my boyfriend/Pictures/UI 2 - Happy nding.png)
+![UI2 - Happy Ending](/Would you be my boyfriend/Pictures/UI 2 - Happy nding.png)
